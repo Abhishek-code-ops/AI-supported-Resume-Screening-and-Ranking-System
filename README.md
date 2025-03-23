@@ -1,4 +1,4 @@
-PROJJECT
+PROJECT
 AI-Powered-Resume-Screening-System and ranking system
 
 Overview
