@@ -1,11 +1,13 @@
 AI-Powered-Resume-Screening-System and ranking system
 
 Overview
+
 The AI-Powered Resume Screening System is a web application designed to automate the process of categorizing resumes based on their content. Built using Python and Streamlit, this system leverages machine learning to predict the job category of a resume by analyzing its text. It supports resumes in PDF, DOCX, and TXT formats, making it versatile for various use cases.
 
 This project is ideal for recruiters, HR professionals, and organizations looking to streamline their resume screening process and improve efficiency.
 
 Features
+
 Resume Text Extraction: Extracts text from PDF, DOCX, and TXT files.
 
 Text Cleaning: Preprocesses and cleans resume text for better analysis.
